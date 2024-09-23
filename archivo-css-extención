@@ -1,0 +1,17 @@
+body{
+    background-color: aqua;
+}
+table, th, td {
+    border: 2px solid blue;
+    border-collapse: collapse;
+}
+.img {
+    width: 90px;
+    height: 90px;
+    position: relative;
+}
+caption {
+    display: table-caption;
+    text-align: center;
+    font-size: 30px;
+}
